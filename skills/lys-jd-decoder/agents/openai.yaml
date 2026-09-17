@@ -1,0 +1,4 @@
+interface:
+  display_name: "lys-jd-decoder"
+  short_description: "把具体JD压成四层结果，看懂工作、公司和经历证据"
+  default_prompt: "使用 $lys-jd-decoder 拆解这份具体JD，用四层结果告诉我岗位做什么、我能拿什么证明、公司是做什么的，以及还要核实什么；如果我提供简历，请在经历层追加修改意见。"
