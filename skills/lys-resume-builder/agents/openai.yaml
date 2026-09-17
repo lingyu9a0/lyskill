@@ -1,4 +1,4 @@
 interface:
-  display_name: "lys-resume-builder"
-  short_description: "先建真实素材库，再按JD白名单生成简历版本"
+  display_name: "零玉简历写作"
+  short_description: "基于真实经历，按 JD 生成岗位简历"
   default_prompt: "请用 $lys-resume-builder 建立我的长期简历案例目录。第一阶段先读取基本信息、已有简历和真实经历材料；素材整理完成后再请我提供真实 JD，并只用匹配白名单中的最强证据生成对应版本。"
