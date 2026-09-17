@@ -1,6 +1,6 @@
 ---
 name: lys-resume-builder
-description: 基于真实经历和证据，按具体 JD 生成可核验、可迭代的岗位版本简历。
+description: 按 JD 生成可核验、可迭代的岗位简历。
 ---
 
 # 零玉简历写作

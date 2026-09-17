@@ -1,6 +1,6 @@
 ---
 name: lys-jd-decoder
-description: 拆解具体 JD，提炼岗位任务、评价结果、要求层级和可证明的经历证据；有简历时补充针对该岗位的修改意见。
+description: 拆解 JD，提炼岗位任务、评价结果和经历证据。
 ---
 
 # 零玉 JD 拆解器
