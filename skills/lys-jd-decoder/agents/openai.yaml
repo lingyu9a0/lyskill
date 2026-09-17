@@ -1,4 +1,4 @@
 interface:
-  display_name: "零玉 JD 拆解"
-  short_description: "拆解 JD，提炼岗位任务和经历证据"
-  default_prompt: "使用 $lys-jd-decoder 拆解这份具体JD，用四层结果告诉我岗位做什么、我能拿什么证明、公司是做什么的，以及还要核实什么；如果我提供简历，请在经历层追加修改意见。"
+  display_name: "lys-jd-decoder"
+  short_description: "严格拆解具体 JD，识别岗位任务、明确门槛、页面冲突、公司信息和经历证据"
+  default_prompt: "使用 $lys-jd-decoder 严格拆解这份具体JD，用四层结果告诉我岗位做什么、明确门槛与页面冲突、我能拿什么证明、公司是做什么的，以及最值得核实的五个问题；如果我提供简历，请在经历层追加修改意见。"
